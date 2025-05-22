@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Zwami",
   description:
     "We connect Ukrainian citizens living outside Ukraine with trusted, multilingual lawyers who specialize in immigration, asylum, family, and civil law.",
+  icons: {
+    icon: "/zwami.svg",
+  },
   openGraph: {
     title: "Zwami",
     description:
