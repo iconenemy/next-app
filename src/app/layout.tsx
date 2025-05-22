@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description:
       "We connect Ukrainian citizens living outside Ukraine with trusted, multilingual lawyers who specialize in immigration, asylum, family, and civil law.",
     siteName: "Zwami",
-    url: "https://zwami.online",
+    url: "https://zwami.online/",
     images: [
       {
         url: "https://zwami.online/zwami-graph.png",
